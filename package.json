@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:globalizejs/globalize-compiler.git"
+    "url": "https://github.com/HBOCodeLabs/globalize-compiler/tree/release/1.1.1-pr46"
   },
   "keywords": [
     "globalize"
